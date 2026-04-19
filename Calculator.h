@@ -1,4 +1,4 @@
-// Advanced Engineering Calculator by Andrusik
+// Advanced Engineering Calculator by Andrusik and Sakhruk
 
 #ifndef CALCULATOR_H
 #define CALCULATOR_H
@@ -10,6 +10,13 @@ public:
     double subtract(double a, double b);
     double multiply(double a, double b);
     double divide(double a, double b);
+
+    double Calculator::add(double a, double b) {
+        return a + b;
+    }
+
+    double Calculator::subtract(double a, double b) {
+        return a - b;
 
     double Calculator::multiply(double a, double b) {
         return a * b;
