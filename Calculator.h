@@ -1,3 +1,5 @@
+// Advanced Engineering Calculator by Andrusik
+
 #ifndef CALCULATOR_H
 #define CALCULATOR_H
 
