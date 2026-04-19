@@ -1,3 +1,5 @@
+// Modern Calculator System by Sakhruk
+
 #ifndef CALCULATOR_H
 #define CALCULATOR_H
 
