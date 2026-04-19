@@ -1,4 +1,4 @@
-// Modern Calculator System by Sakhruk
+// Advanced Engineering Calculator by Andrusik and Sakhruk
 
 #ifndef CALCULATOR_H
 #define CALCULATOR_H
